@@ -2,7 +2,15 @@ import './App.css';
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import Home from './Home';
 import Coin from './Coin';
+/*  Deploy it to firebase
+  npm install -g firebase-tools
+  firebase login
+  firebase init
+  build
+  npm run build
+  firebase deploy
 
+*/
 function App() {
   return (
     <BrowserRouter>
