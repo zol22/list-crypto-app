@@ -31,6 +31,7 @@ const styles = {
         paddingBottom:'10px',
         paddingTop:'10px',
         fontWeight: 200,
+        fontSize: '15px'
 
       },
     body2:{
