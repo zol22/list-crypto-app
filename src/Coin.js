@@ -14,7 +14,7 @@ const styles = {
     },
     card: {
         height: "100%",
-        width:"400px",
+        width:"350px",
         backgroundColor:'whitesmoke',
         textAlign:"center",
     }, 
@@ -37,6 +37,8 @@ const styles = {
     body2:{
         paddingBottom:'10px',
         paddingTop:'10px',
+        marginLeft:'40px',
+        marginRight: '40px',
     }
 }
 
